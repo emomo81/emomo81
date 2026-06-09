@@ -1,20 +1,211 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Data science & machine learning projects<br><br>Python desktop applications (Tkinter + MySQL/XAMPP)<br><br>Full-stack web apps using React, Node.js, Supabase, Vercel, and Render<br><br>Real-world systems like insurance, banking, and service management apps<br><br>👯 I’m looking to collaborate on<br><br>Data analysis & machine learning projects<br><br>Python-based systems (GUI + database)<br><br>Open-source projects related to data science, AI, or web development<br><br>Student tech projects and hackathons<br><br>🤝 I’m looking for help with<br><br>Advanced machine learning & model deployment<br><br>Cloud platforms (GCP Vertex AI, AWS, scalable backends)<br><br>Improving system architecture and performance<br><br>Industry best practices for data science projects<br><br>🌱 I’m currently learning<br><br>Advanced machine learning & AI concepts<br><br>Data visualization & statistical analysis (Python & R)<br><br>Cloud deployment (Vercel, Render, Supabase)<br><br>Web development (React, Node.js, Tailwind CSS)<br><br>💬 Ask me about<br><br>Python, data science, and machine learning<br><br>Tkinter GUI applications<br><br>MySQL, database design, and SQL<br><br>Student tech projects and project structuring<br><br>⚡ Fun fact<br><br>I enjoy turning complex real-world problems into simple, functional software 🚀
+<div align="center">
 
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Emmanuel%20G.%20Momo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder&descAlignY=60&descSize=16&animation=fadeIn" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-momo-b97681250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emmanuelmomo81@gmail.com) 
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/emomo81">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+from+Kigali+%F0%9F%87%B7%F0%9F%87%BC;Data+Science+%C3%97+Full-Stack+%C3%97+Machine+Learning;Turning+data+into+decisions%2C+ideas+into+apps;Trilingual+%7C+EN+%7C+FR+%7C+KIN" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emomo81&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=emomo81&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emomo81&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<!-- PROFILE BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Momo-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-emomo2003%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emomo2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-emomo81-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/emomo81)
+[![Location](https://img.shields.io/badge/Kigali%2C_Rwanda-00A86B?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Kigali)
+[![Profile Views](https://komarev.com/ghpvc/?username=emomo81&style=flat-square&color=38bdf8&label=Profile+Views)](https://github.com/emomo81)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=emomo81&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Last updated: 2026-03-22 -->
+## 🧬 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```python
+class Emmanuel:
+    name        = "Emmanuel G. Momo"
+    location    = "Kigali, Rwanda 🇷🇼"
+    degree      = "BSc Data Science – Year 3 @ ULK (Kigali Independent University)"
+    languages   = ["English 🇬🇧", "French 🇫🇷", "Kinyarwanda 🇷🇼"]
+    interests   = ["AI/ML", "Full-Stack Dev", "3D Web", "Data Analytics",
+                   "Content Creation", "Statistical Modeling"]
+    currently   = "Building AI-powered platforms that solve real African problems"
+    hackathons  = ["🥈 2nd Place — Gasura AI Finance App"]
+    open_to     = ["Internships", "Collaborations", "Freelance Projects"]
+```
+
+> *"From raw data to real impact — one commit at a time."*
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏆 [Gasura — AI Finance App](https://github.com/emomo81)
+> **2nd Place Hackathon Winner** 🥈
+
+Personal finance manager powered by **Google Gemini AI**. Tracks income, expenses, and delivers smart budgeting insights through conversational AI.
+
+`React` `Node.js` `PostgreSQL` `Gemini API`
+
+</td>
+<td width="50%">
+
+### 🏫 [EduFind Rwanda](https://github.com/emomo81)
+> **School Discovery Platform**
+
+RAG-powered platform helping Rwandan families find the right schools using geolocation and AI-driven recommendations.
+
+`Next.js 14` `Supabase` `Mapbox` `Gemini API` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 [DLAS — Driver License Auth System](https://github.com/emomo81)
+> **Secure Gov-Grade Platform**
+
+Full-stack authentication system with **TOTP MFA**, Role-Based Access Control, and Supabase Auth for the Liberia Transport Authority.
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Supabase` `MFA`
+
+</td>
+<td width="50%">
+
+### 🏥 [ZOE Healthcare Platform](https://github.com/emomo81)
+> **Gemma 4 Good Hackathon**
+
+AI-driven healthcare access platform targeting underserved communities in Rwanda and Sudan.
+
+`Flask` `SQLAlchemy` `Python` `Gemini`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💼 [KazaRwanda — Job Portal](https://github.com/emomo81)
+> **Bilingual Career Platform 🇷🇼**
+
+Bilingual (EN/KIN) job portal connecting Rwandan talent with employers, built from scratch with a custom PHP/MySQL backend.
+
+`PHP` `MySQL` `HTML/CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
+### 🍽️ [MOMO-RESTO](https://github.com/emomo81)
+> **Mobile Restaurant App**
+
+Cross-platform restaurant app with real-time menus, order management, and MongoDB backend.
+
+`React Native` `Expo` `MongoDB` `Node.js`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🤖 AI / ML / Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emomo81&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=a1b0be"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emomo81&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=a1b0be"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emomo81&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=emomo81&theme=algolia&no-frame=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+| 🏆 Achievement | 🏷️ Issuer | 📅 |
+|---|---|---|
+| 🥈 2nd Place — Gasura AI Hackathon | Open Hackathon | 2024 |
+| 📊 Data Science Job Simulation (ROC-AUC: **0.9121**) | Lloyds Banking Group × Forage | 2024 |
+| 🗄️ 10+ MongoDB Developer Certifications | MongoDB University | 2023–2024 |
+| 📈 5+ Data Science Certifications | Kaggle | 2023–2024 |
+| 🤖 AI Career Essentials | ALX Rwanda | 2023 |
+| 💼 Virtual Assistant Program | ALX Rwanda | 2023 |
+| 🔬 EDA Internship — Iris Dataset | Hex Softwares | 2024 |
+
+---
+
+## 🌍 Impact Areas
+
+```
+🏥  Healthcare Access     → ZOE Platform (Rwanda & Sudan)
+🎓  Education Discovery   → EduFind Rwanda
+🚗  Gov Digital Services  → DLAS (Liberia Transport Authority)
+💊  Pharma Regulation     → PWMIS (LMHRA)
+💰  Financial Inclusion   → Gasura, RwandaPay
+💼  Employment & Jobs     → KazaRwanda
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **internships**, **hackathons**, **freelance builds**, and **research collaborations** — especially anything at the intersection of AI and African development.
+
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-emomo2003%40gmail.com-ea4335?style=for-the-badge)](mailto:emomo2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/⭐_Star_My_Repos-emomo81-181717?style=for-the-badge&logo=github)](https://github.com/emomo81)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20from%20Kigali%2C%20Rwanda%20%F0%9F%87%B7%F0%9F%87%BC&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+
+</div>
