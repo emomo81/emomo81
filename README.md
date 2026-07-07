@@ -28,7 +28,7 @@ class Emmanuel:
     name        = "Emmanuel G. Momo"
     location    = "Kigali, Rwanda 🇷🇼"
     degree      = "BSc Data Science – Year 3 @ ULK (Kigali Independent University)"
-    languages   = ["English 🇬🇧"]
+    languages   = ["English"]
     interests   = ["AI/ML", "Full-Stack Dev", "3D Web", "Data Analytics",
                    "Content Creation", "Statistical Modeling"]
     currently   = "Building AI-powered platforms that solve real African problems"
