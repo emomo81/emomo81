@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/emomo81">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+from+Kigali+%F0%9F%87%B7%F0%9F%87%BC;Data+Science+%C3%97+Full-Stack+%C3%97+Machine+Learning;Turning+data+into+decisions%2C+ideas+into+apps;Trilingual+%7C+EN+%7C+FR+%7C+KIN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+from+Kigali+%F0%9F%87%B7%F0%9F%87%BC;Data+Science+%C3%97+Full-Stack+%C3%97+Machine+Learning;Turning+data+into+decisions%2C+ideas+into+apps;Trilingual+%7C+EN+%7C" alt="Typing SVG" />
 </a>
 
 <br/>
